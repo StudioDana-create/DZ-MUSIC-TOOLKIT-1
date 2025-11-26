@@ -1,0 +1,7 @@
+{
+  "name": "DZ MUSIC TOOLKIT",
+  "description": "A comprehensive music education dashboard featuring Tone Ladder visualization, Note Training game, and a Pro Metronome.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
